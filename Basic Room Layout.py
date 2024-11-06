@@ -2,7 +2,6 @@ import tkinter as tk
 import openai
 import re
 
-# Set up OpenAI API key (replace with your actual key)
 openai.api_key = "replace api keys here"
 
 
